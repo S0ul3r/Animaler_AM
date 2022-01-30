@@ -2,6 +2,9 @@
 
 A new Flutter project. Tinder like app for animals created as a university project
 
+## User database structure from Firebase:
+
+![picture of database structure](user_database.png)
 ## Documentation for the project:
 
 - [Animaler Documentation](https://docs.google.com/document/d/10F9KEax9Z8aS3BZGjH8ofxIfaTayBTvsJMGG8gCon3A/edit?usp=sharing)
@@ -18,3 +21,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
