@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343080966832",
+    "project_id": "main-763de",
+    "storage_bucket": "main-763de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343080966832:android:aae95d71bb4d355e36f975",
+        "android_client_info": {
+          "package_name": "com.am.animaler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343080966832-190gnu098sm72i5p5sf94515prutk2o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6bpjIK8aP4kb1I6PdCRk5_YvrVdNYpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343080966832-190gnu098sm72i5p5sf94515prutk2o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
